@@ -1,0 +1,30 @@
+{
+    "name": "cnvsoft/platform-core-pack",
+    "description": "CNV Platform Core Pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dinh Quoc Han",
+            "email": "contact@dinhquochan.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3.0",
+        "ext-json": "*",
+        "ext-PDO": "*",
+        "ext-zip": "*",
+        "laravel/framework": "^6",
+        "laravel/tinker": "^1.0",
+        "nunomaduro/collision": "^3.0",
+        "fideloper/proxy": "^4.0",
+        "doctrine/dbal": "^2.8",
+        "maatwebsite/excel": "^3.1",
+        "symfony/yaml": "^4.4",
+        "symfony/http-client": "^4.4",
+        "twig/twig": "^3.0"
+    },
+    "require-dev": {
+        "facade/ignition": "^1.0",
+        "fzaninotto/faker": "^1.0"
+    }
+}
