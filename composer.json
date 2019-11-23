@@ -21,10 +21,7 @@
         "maatwebsite/excel": "^3.1",
         "symfony/yaml": "^4.4",
         "symfony/http-client": "^4.4",
+        "laracasts/flash": "^3.0",
         "twig/twig": "^3.0"
-    },
-    "require-dev": {
-        "facade/ignition": "^1.0",
-        "fzaninotto/faker": "^1.0"
     }
 }
